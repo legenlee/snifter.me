@@ -21,4 +21,4 @@ After node.js install, type `yarn start:dev` on your terminal and local server w
 
 ## Contributions
 
-All of source contributions are prohibited.
+All source contributions are prohibited. If you found some issues, please post to issue section of GitHub so I can know.
